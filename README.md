@@ -17,10 +17,10 @@
 |  | D2 | M4 - D2.pdf | https://youtu.be/NIXiYkvVjnU |
 |  | D3 | M4 - D3.pdf | https://youtu.be/RMk0dvnBkTI |
 |  | D4 | M4 - D4.pdf | https://youtu.be/7JLT_OLSA9c |
-| M5 Coding and AI in Machine Vision | D1 | M5 - D1.pdf |
-|  | D2 | M5 - D2.pdf |
-|  | D3 | M5 - D3.pdf |
-|  | D4 | M5 - D4.pdf |
+| M5 Coding and AI in Machine Vision | D1 | M5 - D1.pdf | https://youtu.be/ZLJL9EtvtuI |
+|  | D2 | M5 - D2.pdf | https://youtu.be/uR6No9XNdbI |
+|  | D3 | M5 - D3.pdf | https://youtu.be/L8ZPWLeB_4g |
+|  | D4 | M5 - D4.pdf | https://youtu.be/fWiNviSRvCs |
 
 ชื่อ   :  นางสาวเกษราภรณ์ เพชรนอก
 
