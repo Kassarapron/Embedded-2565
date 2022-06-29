@@ -5,7 +5,7 @@
 |  | D2 | M1 - D2.pdf |
 |  | D3 |  |
 |  | D4 |  |
-| M2  ThingsBoard IoT Platform | D1 |  |
+| M2  ThingsBoard IoT Platform | D1 | M2 - D1.pdf |
 |  | D2 |  |
 |  | D3 |  |
 |  | D4 |  |
